@@ -1,0 +1,6 @@
+101,Bhaktapur,North,7,3500000,Available
+102,Dhulikhel,South,9,2600000,Available
+103,Lalitpur,North,10,3165000,Available
+104,Mahendranagar,West,5,1200000,Available
+105,Kathmandu, West,4,2500000,Available
+106,Biratnagar,East,14,2500000,Available
