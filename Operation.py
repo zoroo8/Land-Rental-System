@@ -8,7 +8,7 @@ returing for returning process
 bills=[]
 returnbill = []
 
-#Giving user option to implement it
+#Giving user input to integer and validate it
 def select_Option():
     print()
     print("Select the desired option.")
